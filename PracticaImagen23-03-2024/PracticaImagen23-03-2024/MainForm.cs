@@ -34,6 +34,8 @@ namespace PracticaImagen23_03_2024
 		void button1_Click(object sender, EventArgs e)
 		{
 			MessageBox.Show("actualizacion del proyecto");
+   			MessageBox.Show("cambio echo desde otra pc del proyecto");
+   		
 		}
 
 		void btnImagen_Click(object sender, EventArgs e)
