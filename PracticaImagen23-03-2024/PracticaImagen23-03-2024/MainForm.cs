@@ -25,9 +25,15 @@ namespace PracticaImagen23_03_2024
 			//
 			InitializeComponent();
 			btnImagen.Click += new EventHandler(btnImagen_Click);
+			button1.Click += new EventHandler(button1_Click);
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+		}
+
+		void button1_Click(object sender, EventArgs e)
+		{
+			MessageBox.Show("actualizacion del proyecto");
 		}
 
 		void btnImagen_Click(object sender, EventArgs e)

@@ -39,6 +39,7 @@ namespace PracticaImagen23_03_2024
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.btnImagen = new System.Windows.Forms.Button();
 			this.OFDimagenes = new System.Windows.Forms.OpenFileDialog();
+			this.button1 = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -65,11 +66,21 @@ namespace PracticaImagen23_03_2024
 			// 
 			this.OFDimagenes.FileName = "openFileDialog1";
 			// 
+			// button1
+			// 
+			this.button1.Location = new System.Drawing.Point(67, 194);
+			this.button1.Name = "button1";
+			this.button1.Size = new System.Drawing.Size(126, 23);
+			this.button1.TabIndex = 2;
+			this.button1.Text = "mensaje";
+			this.button1.UseVisualStyleBackColor = true;
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(321, 344);
+			this.Controls.Add(this.button1);
 			this.Controls.Add(this.btnImagen);
 			this.Controls.Add(this.pictureBox1);
 			this.Name = "MainForm";
@@ -77,6 +88,7 @@ namespace PracticaImagen23_03_2024
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.OpenFileDialog OFDimagenes;
 		private System.Windows.Forms.Button btnImagen;
 		private System.Windows.Forms.PictureBox pictureBox1;
