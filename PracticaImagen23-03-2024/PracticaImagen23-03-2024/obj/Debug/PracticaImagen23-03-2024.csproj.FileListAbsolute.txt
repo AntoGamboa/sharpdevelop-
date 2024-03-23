@@ -1,0 +1,14 @@
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\bin\Debug\PracticaImagen23-03-2024.exe
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\bin\Debug\PracticaImagen23-03-2024.pdb
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.csprojResolveAssemblyReference.cache
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23_03_2024.MainForm.resources
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.csproj.GenerateResource.Cache
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.exe
+C:\Users\CodeHorizont\Desktop\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.pdb
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\bin\Debug\PracticaImagen23-03-2024.exe
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\bin\Debug\PracticaImagen23-03-2024.pdb
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.csprojResolveAssemblyReference.cache
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23_03_2024.MainForm.resources
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.csproj.GenerateResource.Cache
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.exe
+C:\Users\CodeHorizont\Documents\PracticaImagen23-03-2024\PracticaImagen23-03-2024\obj\Debug\PracticaImagen23-03-2024.pdb
